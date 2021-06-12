@@ -29,5 +29,6 @@ client.login("YOUR KEY HERE");
 ```
 And here we go
 ```
+npm install
 node ./index.js
 ```
