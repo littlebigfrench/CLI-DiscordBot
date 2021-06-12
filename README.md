@@ -21,3 +21,13 @@ Cli-DiscordBot is a 'bot' that let you control it from console :
 - reply : send a message to last guy that send a message to you
 - .. : remove last selected
 - help : WIP
+
+## Usage
+Replace the login key in index.js
+```js
+client.login("YOUR KEY HERE");
+```
+And here we go
+```
+node ./index.js
+```
